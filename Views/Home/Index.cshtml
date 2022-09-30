@@ -1,0 +1,39 @@
+﻿@model IEnumerable<AgendaTarefa.Models.DatasViewModel>
+
+@{
+    ViewData["Title"] = "Tarefas Cadastradas";
+}
+
+@foreach(var item in Model)
+{
+    <div class="accordion" id="painelTarefas">
+        <div class="card">
+            <div class="card-header">
+                <div class="row">
+                    <div class="col-10">
+                        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Data)
+            </th>
+        </tr>
+    </thead>
+</table>

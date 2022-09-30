@@ -1,0 +1,8 @@
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.csproj.AssemblyReference.cache
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.AssemblyInfoInputs.cache
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.AssemblyInfo.cs
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.csproj.CoreCompileInputs.cache
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.RazorAssemblyInfo.cache
+C:\Users\OEM\Desktop\AgendaTarefa\AgendaTarefa\obj\Debug\net6.0\AgendaTarefa.RazorAssemblyInfo.cs
